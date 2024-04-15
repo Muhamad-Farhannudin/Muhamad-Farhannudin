@@ -9,6 +9,8 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/Muhamad-Farhannudin/Muhamad-Farhannudin/blob/output/github-contribution-grid-snake.gif)
+
 - 🌱 I’m currently learning **Typescript, and Express JS**
 
 - 👯 I’m looking to collaborate on [Website Portofolio](https://website-portofolio-farhan.vercel.app/)
