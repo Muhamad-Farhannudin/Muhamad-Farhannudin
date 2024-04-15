@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamad-farhannudin" alt="muhamad-farhannudin" /></a> </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 - 🌱 I’m currently learning **Typescript, and Express JS**
 
 - 👯 I’m looking to collaborate on [Website Portofolio](https://website-portofolio-farhan.vercel.app/)
