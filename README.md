@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamad-farhannudin" alt="muhamad-farhannudin" /></a> </p>
 
-- 🔭 I’m currently working on [Website SI Data Kelurahan](-)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 - 🌱 I’m currently learning **Typescript, and Express JS**
 
@@ -19,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xRkLxRbxpd0TDK5W1yG4QfNRDrWUii6A/view?usp=sharing](https://drive.google.com/file/d/1xRkLxRbxpd0TDK5W1yG4QfNRDrWUii6A/view?usp=sharing)
 
-- ⚡ Fun fact **Bismillah.. I want to work as a developer this year, Amen..**
+- ⚡ Fun fact **Bismillah.. I want to work as a developer this year, Aamiin..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
